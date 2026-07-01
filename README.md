@@ -1,2 +1,0 @@
-﻿
-<!-- verifica firma GPG ByteLab -->
