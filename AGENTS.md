@@ -15,6 +15,12 @@ Signing/key operations, push and publication require explicit confirmation. Do n
 
 Validate local references, placement, encoding and the diff; report any content that cannot be checked under the README exclusion. There are no discovered application commands to run.
 
+## Pull request review
+
+- Expected workflow: obtain a Codex review when a PR opens and after each subsequent push to its branch. Check that the result covers the latest head commit; resolve actionable findings before requesting merge approval. An earlier review does not cover later commits.
+- Automatic review and Review trigger are configured in Codex settings; this file does not enable them. If no review appears, verify repository access and repository/personal trigger settings. A manual review can provide feedback, but does not prove the automatic trigger works. Automated review does not replace applicable checks or the team lead's merge approval.
+- See the [official Codex GitHub review documentation](https://learn.chatgpt.com/docs/third-party/github). Keep this section aligned when the approved review workflow changes.
+
 ## Maintenance
 
 When an approved change invalidates scope, entry points, tooling, command effects, publication, checks or links, align the affected AGENTS.md in the same task before completion. Update container maps only when their boundaries or links change. If unable, report the precise mismatch, reason and follow-up for correction at the earliest opportunity. Keep stable facts and references, without dependency versions, test counts, histories or deployment snapshots.
