@@ -56,13 +56,19 @@ Le principali aree di ricerca e sviluppo includono:
 
 ## Filosofia
 
-ByteLab segue una filosofia semplice:
+**Costruire strumenti utili. Rendere la tecnologia accessibile. Condividere ciò che funziona.**
 
-Costruire strumenti utili.  
-Renderli semplici da usare.  
-Condividere ciò che funziona.
+Ho fondato ByteLab con una convinzione precisa: la tecnologia dovrebbe rendere le persone e le imprese più autonome, non più dipendenti.
 
-La tecnologia dovrebbe risolvere problemi reali, non creare complessità inutile.
+Credo nella conoscenza, nella trasparenza e nella libertà di scelta. Non nella complessità fine a sé stessa, né in soluzioni che creano dipendenze artificiali da chi le sviluppa.
+
+Per me, il valore di un progetto non si misura soltanto nella sua complessità tecnica o nel risultato economico, ma soprattutto nella sua capacità di risolvere problemi reali, restituire tempo e offrire nuove opportunità.
+
+**Voglio costruire strumenti che le persone scelgano di utilizzare per il valore che offrono, non perché non hanno alternative.**
+
+È questa la filosofia che guida il mio lavoro, dalla sperimentazione tecnologica ai servizi professionali.
+
+**[Scopri la mia filosofia personale](https://christianseminara.com/filosofia)** — Christian Seminara, fondatore di ByteLab.
 
 ---
 
